@@ -1,0 +1,1 @@
+states that objects of a super class should be replaceable with objects of a sub class without altering the correctness of the program

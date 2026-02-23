@@ -1,0 +1,1 @@
+ensures that classes are not burdened with methods they don't need
