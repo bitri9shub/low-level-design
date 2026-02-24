@@ -5,12 +5,10 @@ public class MultiPurposeMachine implements ICopier, IScanner, IPrinter {
     public void print() {
         System.out.println("Printing document...");
     }
-
     @Override
     public void scan() {
         System.out.println("Scanning document...");
     }
-
     @Override
     public void copy() {
         System.out.println("Copying document...");

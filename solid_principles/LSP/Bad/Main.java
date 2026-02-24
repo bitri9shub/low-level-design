@@ -5,7 +5,7 @@ public class Main {
         File file = new ReadOnlyFile();
 
         file.read(); // works fine
-        file.write(); // throws exception => LSP violation
+        file.write(); // throws exception
 
     }
 }
